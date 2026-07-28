@@ -1,0 +1,10 @@
+{
+  "projectName": "data-observability-dashboard",
+  "version": "1.0.0",
+  "targetEnvironment": "production",
+  "buildSettings": {
+    "framework": "vite",
+    "ui": "react-tailwind",
+    "visualization": "recharts"
+  }
+}
